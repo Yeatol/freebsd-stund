@@ -1,5 +1,5 @@
 PROG_CXX=	stund
-SRCS=		main.cpp network.cpp stun.cpp
+SRCS=		main.cpp stun.cpp network_shim.cpp
 MAN=
 
 CXXSTD=		c++23

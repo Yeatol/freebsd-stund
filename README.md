@@ -73,7 +73,13 @@ Manage it using standard FreeBSD service controls such as:
 
 ```sh
 service stund start
+```
+
+```sh
 service stund status
+```
+
+```sh
 service stund stop
 ```
 
